@@ -1,0 +1,57 @@
+JagTrack Module 1 - Written Reflection
+Student: Tommy Spainhower
+Date: 2/12/2026
+
+
+---
+
+
+CHOICE POINT #1: COLOR THEME
+Option Chosen: A
+Explanation: I chose option A because the colors look nice and fit the website.
+ What I mean by fitting the website is that school colors go good with the website being for academic reasons.
+ As for considerations for accessibility, I have not made any.
+
+
+---
+
+
+NEXT QUARTER PLANNING (myclassesnextquarter.html)
+
+
+My Classes for Next Quarter:
+- A Block: Math - 8:25 to 9:55
+- B Block: Study Time - 10:00 to 11:30
+- C Block: Work Time - 12:15 to 1:45
+- D Block: Free Time - 1:50 to 3:20
+(Add 1st Period if applicable)
+
+
+Explanation:
+I chose those classes because they give me a lot of free time at home. 
+I am most looking forward to improving my understanding of subjects I already know. 
+I think math will be the most challenging as it requires a lot of thought. 
+I'll use my free period unproducitvely as I can do productive stuff in my B and C block. 
+These classes will help me get better at math which is essential for anything academic or career related goals.
+
+
+Free Period Challenge (if applicable):
+[If you have a free period, did you complete the challenge to hide it on mobile? Explain how you implemented it using d-none d-sm-block]
+
+
+---
+
+
+REFLECTION
+
+
+What I Learned:
+[Write 5-8 sentences reflecting on Module 1:
+- What Bootstrap concepts made sense to you?
+- What was most challenging?
+- How do you feel about your CSS customization?
+- What would you add to JagTrack in the future?
+- How will you use this site for planning next quarter?]
+
+
+Hours Spent: [Approximate time on this module]
